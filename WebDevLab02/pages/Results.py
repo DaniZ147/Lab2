@@ -5,7 +5,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="The profitability of of movies that have thore", page_icon=":popcorn:")
 st.header("How profitable is the thor character to the MCU?")
-df = pd.read_json("../data.json")
+df = pd.read_json("WebDevLab02/data.json")
 st.dataframe(df)
 df["profit"] = df['box_office'] - df['budget']
 st.write("---")
