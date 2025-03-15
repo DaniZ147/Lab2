@@ -64,7 +64,7 @@ spoken_data = {
     
 }
 leadership_data = {
-    "Guardians of the Galaxy": (["- I was chosen as the leader of the Guardians of the Galaxy because Star-Lord was not up to the task"],"images/g.webp"),
+    "Guardians of the Galaxy": (["- I was chosen as the leader of the Guardians of the Galaxy because Star-Lord was not up to the task"],"WebDevLab02/images/g.webp"),
 
 }
 activity_data={
