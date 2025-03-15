@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images\Thor1.webp"
+profile_picture = "WebDevLab02/images\Thor1.webp"
 about_me = "I am Thor, God of Thunder, King of Asgard, and leader of the Guardians of the Galaxy."
 
 
@@ -32,10 +32,10 @@ course_data = {
     }
 experience_data = {
     "King of Asgard": (["- Vanquished Hela, thereby thwarting her malevolent designs to conquer the cosmos and reign as a tyrant.",
-                                                                          "- Oversaw the evacuation of Asgard's citizens, ensuring their safety during the realm's destruction.", "- Established New Asgard on Earth, providing a new home for my people."],"images/maxresdefault.jpg"),
+                                                                          "- Oversaw the evacuation of Asgard's citizens, ensuring their safety during the realm's destruction.", "- Established New Asgard on Earth, providing a new home for my people."],"WebDevLab02/images/maxresdefault.jpg"),
     "Leader of the Revengers":(["- Formed an alliance with Valkyrie, Hulk, and Loki to challenge the Grandmaster's rule on Sakaar.",
-                                                           "- Orchestrated a successful rebellion, leading to our escape from Sakaar."],"images/thor-and-the-revengers-meeting-hela.jpg"),
-    "Avengers ":(["- Played a pivotal role in the Battle of New York, defending Earth from the Chitauri invasion.", "- Assisted in the defeat of Ultron, preventing global annihilation.", "- Contributed significantly to the defeat of Thanos, ensuring the survival of half the universe's population."],"images/maxresdefault (1).jpg")
+                                                           "- Orchestrated a successful rebellion, leading to our escape from Sakaar."],"WebDevLab02/images/thor-and-the-revengers-meeting-hela.jpg"),
+    "Avengers ":(["- Played a pivotal role in the Battle of New York, defending Earth from the Chitauri invasion.", "- Assisted in the defeat of Ultron, preventing global annihilation.", "- Contributed significantly to the defeat of Thanos, ensuring the survival of half the universe's population."],"WebDevLab02/images/maxresdefault (1).jpg")
 
 }
 
