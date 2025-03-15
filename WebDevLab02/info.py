@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "WebDevLab02/images\Thor1.webp"
+profile_picture = "WebDevLab02/images/Thor1.webp"
 about_me = "I am Thor, God of Thunder, King of Asgard, and leader of the Guardians of the Galaxy."
 
 
