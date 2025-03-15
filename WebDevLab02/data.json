@@ -1,0 +1,58 @@
+[
+  {
+    "movie": "Thor",
+    "year": "2011-05-06",
+    "budget": 150000000,
+    "box_office": 449000000,
+    "movie_type": "Thor"
+  },
+  {
+    "movie": "The Avengers",
+    "year": "2012-05-04",
+    "budget": 220000000,
+    "box_office": 1519000000,
+    "movie_type": "Crossover"
+  },
+  {
+    "movie": "Thor: The Dark World",
+    "year": "2013-11-08",
+    "budget": 170000000,
+    "box_office": 644000000,
+    "movie_type": "Thor"
+  },
+  {
+    "movie": "Avengers: Age of Ultron",
+    "year": "2015-05-01",
+    "budget": 250000000,
+    "box_office": 1405000000,
+    "movie_type": "Crossover"
+  },
+  {
+    "movie": "Thor: Ragnarok",
+    "year": "2017-11-03",
+    "budget": 180000000,
+    "box_office": 853000000,
+    "movie_type": "Thor"
+  },
+  {
+    "movie": "Avengers: Infinity War",
+    "year": "2018-04-27",
+    "budget": 400000000,
+    "box_office": 2048000000,
+    "movie_type": "Crossover"
+  },
+  {
+    "movie": "Avengers: Endgame",
+    "year": "2019-04-26",
+    "budget": 356000000,
+    "box_office": 2798000000,
+    "movie_type": "Crossover"
+  },
+  {
+    "movie": "Thor: Love and Thunder",
+    "year": "2022-07-08",
+    "budget": 250000000,
+    "box_office": 760000000,
+    "movie_type": "Thor"
+  }
+]
